@@ -12,4 +12,3 @@ chars2 = ['O', 'Q', 'R', 'S']
 
 puts missingChar(chars1) # 印出 e
 puts missingChar(chars2) # 印出 P
-  
